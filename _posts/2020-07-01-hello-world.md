@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "hello world"
-categories: 未分类
+title:  "2022年5月CFA考试延期新政策"
+categories: CFA
 tags: 行动
-author: jiobxn
+author: Becky123hong
 ---
 
 * content
