@@ -6,20 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: JIOBXN | 桀骜不驯
-brief-intro: action action action
+title: 知心姐姐
+brief-intro: Test Winner 人生赢家
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jiobxn.github.io" # the base hostname & protocol for your site
+url: "https://www.testwon.com/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: 
-facebook_username: 
-github_username:  jiobxn
-email: jiobxn@gmail.com
-weibo_username: 520124416
-zhihu_username: 
+twitter_username: becky123hong
+facebook_username: becky.qin.946
+github_username:  Becky123hong
+email: 523296652@qq.com
+weibo_username: 2135811014
+zhihu_username: becky123hong
 linkedIn_username: 
 dribbble_username:
 
