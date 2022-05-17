@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CFA注册/预约/取消Withdraw考位/错过Schedule预约截止日期预约考位/延期合集 "
+title:  "CFA忘记/错过Schedule预约截止日期怎么样重新预约考位 "
 categories: CFA
 tags: CFA
 author: Becky123hong
