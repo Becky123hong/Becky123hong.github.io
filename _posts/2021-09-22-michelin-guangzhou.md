@@ -2,7 +2,7 @@
 layout: post
 title:  "CFA忘记/错过Schedule预约截止日期怎么样重新预约考位 "
 categories: CFA
-tags: CFA
+tags: Test|考试
 author: Becky123hong
 ---
 
