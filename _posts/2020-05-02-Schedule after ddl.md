@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CFA忘记/错过Schedule预约截止日期怎么样重新预约考位 "
+title:  "CFA忘记预约/错过预约考位（Schedule）截止日期怎么样重新预约考位 "
 categories: CFA
 tags: Test|考试
 author: Becky123hong
@@ -18,9 +18,6 @@ author: Becky123hong
 > 只要My account—Payment—Receipt里面的Sales Order是有效的
 > 只要想约的城市有考位，知心姐姐都可以重新帮您预约。
 
-
-
-----
 
 ## 忘记预约2022年5月CFA考位怎么办？
 
