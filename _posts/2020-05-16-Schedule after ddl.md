@@ -18,6 +18,7 @@ author: Becky123hong
 > 只要My account—Payment—Receipt里面的Sales Order是有效的
 > 只要想约的城市有考位，知心姐姐都可以重新帮您预约。
 
+----
 
 ## 忘记预约2022年5月CFA考位怎么办？
 
