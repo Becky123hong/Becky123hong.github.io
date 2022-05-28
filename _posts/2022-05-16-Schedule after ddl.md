@@ -14,8 +14,8 @@ author: Becky123hong
 
 > 1.	可自己发邮件或打电话给CFA，请求协会给机会。有些同学成功，有些同学被拒绝，看运气。  
 > 2.	如果被拒绝了，可以联系知心姐姐解决问题。  
-- [x] 只要My account—Payment—Receipt里面的Sales Order是有效的  
-- [x] 只要想约的城市有考位，知心姐姐都可以重新帮您预约。
+- 只要My account—Payment—Receipt里面的Sales Order是有效的  
+- 只要想约的城市有考位，知心姐姐都可以重新帮您预约。
 
 
 
